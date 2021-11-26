@@ -1,4 +1,5 @@
 *** We will never ask for money to share the datasets. If someone claims that s/he has the all the raw data and wants a payment, please be careful. ***
+
 **About Data**
 
 This IFND dataset covers news pertaining to India only. This dataset is created by scapping indian fact checking websites.The dataset contains two types of news fake and real News. This dataset was collected from realworld sources; the truthful articles were obtained by crawling articles from Reuters.com (News website). As for the fake news articles, they were collected from different sources. The truthful news and fake news were collected from different reliable fact-checking websites.  The dataset contains different types of articles on different topics, however, the majority of news focus on political news.
