@@ -17,6 +17,8 @@ https://drive.google.com/drive/u/3/folders/1K4NacXO8_9ZLxWBpyoKL0fLXr0uRsa2W
 
 
 **References**
+
+
 If you use this dataset, please cite the following papers:
 Sharma, D. K., & Garg, S. (2021, July). Machine Learning Methods to identify Hindi Fake News within social-media. In 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 1-6). IEEE.Sharma, D. K., & Garg, S. (2021). IFND: a benchmark dataset for fake news detection. Complex & Intelligent Systems, 1-21.
 Garg, S., & Sharma, D. K. (2020, December). New Politifact: A Dataset for Counterfeit News. In 2020 9th International Conference System Modeling and Advancement in Research Trends (SMART) (pp. 17-22). IEEE.
