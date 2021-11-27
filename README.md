@@ -23,11 +23,20 @@ The above CSV files is comma separated file and have the following columns:
 The image folder is divided into True and fake images. Images can be accessed using this link-
 https://drive.google.com/drive/u/3/folders/1K4NacXO8_9ZLxWBpyoKL0fLXr0uRsa2W
 
+Note that there are absolutely no guarantees with this data,
+and we provide this dataset "as is",
+but you are welcome to report the issues of the preliminary version of this data.
+
+You are allowed to use this dataset for research purposes only.
+
+For more question about the dataset, please contact:
+Sonal Garg, sonugarg174@gmail.com
+
 
 **References**
 
 
-If you use this dataset, please cite the following papers:
+If you use this dataset, as an agreement,please cite the following papers:
 
 Sharma, D. K., & Garg, S. (2021). IFND: a benchmark dataset for fake news detection. Complex & Intelligent Systems, 1-21.
 
