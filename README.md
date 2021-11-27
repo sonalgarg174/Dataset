@@ -37,3 +37,7 @@ Garg, S., & Sharma, D. K. (2020, December). Phony News Detection using Machine L
 
 Sharma, D. K., & Garg, S. (2021, July). Machine Learning Methods to identify Hindi Fake News within social-media. In 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 1-6). IEEE.
 
+Sharma, Sunidhi, and Dilip Kumar Sharma. "Fake News Detection: A long way to go." 2019 4th International Conference on Information Systems and Computer Networks (ISCON). IEEE, 2019.
+
+Sharma, D.K., and Garg, S.”, A Framework for automatic fake content identification”, In IEEE Sponsored 1st International Conference” Simulation, Automation& Smart Manufacturing”, SASM 2021, held at GLA University, India.
+
