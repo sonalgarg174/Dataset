@@ -12,8 +12,6 @@ The above CSV files is comma separated file and have the following columns:
 
 *Image- Image Url 
 
-*Web-  Url of the article from web that published that news
-
 *Category-Topic of news 
 
 *Date- Date of news
